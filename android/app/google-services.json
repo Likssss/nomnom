@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "172376583617",
+    "project_id": "nomnom2-41443",
+    "storage_bucket": "nomnom2-41443.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172376583617:android:1ac1293b832cd7aa1c5340",
+        "android_client_info": {
+          "package_name": "com.company.nomnom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172376583617-496pnhosfthgl94btjkj3u71oksk8tlc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo8LsvjNgz8rQAk3qzz6zi0RSHStZYWvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172376583617-496pnhosfthgl94btjkj3u71oksk8tlc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
