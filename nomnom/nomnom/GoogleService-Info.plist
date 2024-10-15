@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyD-LmLN6gIRBq3SkVMUC6r699F9a6WO4kE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>152021341702</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.nomnom.practice</string>
+	<key>PROJECT_ID</key>
+	<string>nomnom-recipefinder</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nomnom-recipefinder.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:152021341702:ios:93004ff303a1428f781587</string>
+</dict>
+</plist>

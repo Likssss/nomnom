@@ -1,0 +1,2 @@
+
+let model = ImageRecognitionML.self
