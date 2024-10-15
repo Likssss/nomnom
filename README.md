@@ -38,6 +38,3 @@ A step by step series of examples that tell you how to get a development environ
 
 **Note:** Make sure to use a MacBook to run this.
 
-## Author
-
-- Felix Johan
